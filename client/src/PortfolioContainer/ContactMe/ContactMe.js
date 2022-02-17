@@ -86,7 +86,7 @@ export default function ContactMe(props){
                            steps = {[
                                "Get In Touch 📧",
                                2000,
-                               "Contact to find out more 🧑‍💻",
+                               "Drop Message ✍️",
                                2000,
                                
                             ]}
