@@ -1,10 +1,6 @@
 {
   "name": "client",
-<<<<<<< HEAD
   "proxy": "http://localhost:6000",
-=======
-  "proxy": "http://localhost:5000",
->>>>>>> 086b9d766f4814c3d5d30d532bd3326f9cba1119
   "version": "0.1.0",
   "private": true,
   "dependencies": {

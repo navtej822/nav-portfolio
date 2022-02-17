@@ -21,10 +21,8 @@ if(process.env.NODE_ENV === "production"){
     );
 }
 
-<<<<<<< HEAD
+
 const port = process.env.PORT || 6000;
 app.listen(port, console.log(`server listening to port 6000 only`));
-=======
-const port = process.env.PORT || 5000;
-app.listen(port, console.log(`server listening to port 5000 only`));
->>>>>>> 086b9d766f4814c3d5d30d532bd3326f9cba1119
+
+
