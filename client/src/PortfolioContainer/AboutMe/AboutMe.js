@@ -14,7 +14,7 @@ export default function AboutMe(props){
         description: "Ambitious, energetic and result oriented master of science student looking for full time opportunities in Computer Science Domain.",
         highlights:{
             bullets:[
-                "I am currently studying in University of Texas at Arlington and I will graduate in May, 2022.",
+                "I am currently studying at University of Texas at Arlington and I will graduate in May, 2022.",
                 "Experience with web application development using HTML5, CSS, JavaScript",
                 "Proficiency in SQL and extensive experience with database driven applications. ",
                 "Sharp problem-solving skills along with excellent troubleshooting and debugging skills.",
